@@ -27,7 +27,7 @@ No additional external dependencies are required.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ip-lookup-tool.git
+   git clone https://github.com/shahbazabbasi414/-IP-Address-Lookup-Tool-in-Python
 Navigate to the project directory:
 
 bash
